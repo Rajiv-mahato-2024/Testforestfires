@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+Flask
+jsonify
+request
+render_template
